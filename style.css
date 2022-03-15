@@ -1,0 +1,19 @@
+h1{
+  color: blue;
+  text-align: center;
+  background-color: beige;
+}
+
+a:link,a:active{
+  text-decoration: none;
+  color: black;
+}
+a:hover,a:focus{
+  color: black;
+}
+ul > *:nth-child(odd){
+  background-color: antiquewhite;
+}
+ol > *:nth-child(odd){
+  background-color: antiquewhite;
+}
